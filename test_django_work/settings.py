@@ -81,8 +81,8 @@ CACHES = {
     }
 }
 
-# Время жизни кэша 2 минуты.
-CACHE_TTL = 60 * 2
+# Время жизни кэша 30 минут.
+CACHE_TTL = 60 * 30
 
 AUTH_PASSWORD_VALIDATORS = [
     {
